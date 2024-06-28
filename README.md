@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LyiarCodie
 - 👀 I’m interested in Live Abroad
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 
 <!---
 LyiarCodie/LyiarCodie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
